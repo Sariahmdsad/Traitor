@@ -7,9 +7,9 @@ function h() {
  let G =Math.floor(Math.random() * 20) + 1; 
  let B =Math.floor(Math.random() * 20) + 1; 
  let v = G+B
-  f2.innerText =G;
-  f3.innerText =B;
-  f4.innerText =v;
+  f2.innerText =G+"G";
+  f3.innerText =B+"B";
+  f4.innerText =v+"Toitl";
   console.log(mz)
   
   if (mz == 1) {
